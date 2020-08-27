@@ -1,0 +1,32 @@
+.list {
+    color: #000;
+    width: 350px;
+    background-color: #4f9ffb;
+    height: 40px;
+    margin: 20px 10px;
+    border: 1px solid;
+    border-radius: 10px  
+}
+
+.list p {
+    margin: 10px;   
+    font-size: 16px;
+    font-weight: 500;   
+}
+
+.list p input {
+    background-color: transparent;
+    border: 0; 
+    outline: none;     
+}
+
+.list-span {        
+    cursor: pointer;
+    float: right;
+}
+
+.my-icon{
+    color:#000;
+    margin: 0 5px;
+    font-size: 15px;
+}
